@@ -1,6 +1,6 @@
 # 🦀 rust_training
 
-##Création d'un environnement de travail Rust sous Linux sans cargo :
+## Création d'un environnement de travail Rust sous Linux sans cargo :
 
 ### 1. Création du dossier projet :
 
