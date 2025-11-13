@@ -32,3 +32,7 @@
     ```bash
     $ ./main
     Hello, world!
+
+
+
+## Création d'un environnement de travail Rust sous Linux avec cargo :
